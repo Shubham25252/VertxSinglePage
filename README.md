@@ -34,5 +34,5 @@ npmn run dev
 
 ```
 ## Live Demo 
-For Live Demo of this Project Click [here](``)
+For Live Demo of this Project Click [here](`https://vertxsinglepage22.netlify.app/`)
 
